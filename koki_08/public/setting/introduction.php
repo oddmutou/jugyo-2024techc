@@ -27,6 +27,8 @@ if (isset($_POST['introduction'])) {
   return;
 }
 ?>
+<a href="./index.php">設定一覧に戻る</a>
+
 <h1>自己紹介設定</h1>
 <form method="POST">
   <textarea type="text" name="introduction" rows="5"
