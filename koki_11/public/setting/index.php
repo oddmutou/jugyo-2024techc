@@ -14,7 +14,7 @@ $select_sth->execute([
 ]);
 $user = $select_sth->fetch();
 ?>
-<a href="/bbs.php">掲示板に戻る</a>
+<a href="/timeline.php">タイムラインに戻る</a>
 <h1>設定画面</h1>
 <p>
   現在の設定

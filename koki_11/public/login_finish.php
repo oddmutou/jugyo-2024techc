@@ -19,7 +19,7 @@ $user = $insert_sth->fetch();
 <h1>ログイン完了</h1>
 <p>
   ログイン完了しました!<br>
-  <a href="/bbs.php">掲示板はこちら</a>
+  <a href="/timeline.php">タイムラインはこちら</a>
 </p>
 <hr>
 <p>
